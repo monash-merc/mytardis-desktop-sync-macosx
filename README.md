@@ -30,6 +30,6 @@ tick next to each experiment you already have a local copy of.  You can tick add
 copy of them, and you can untick your already-synced experiments to delete your local copy of them.
 
 The dialogs in this application are Cocoa dialogs, which can be edited in Xcode's Interface Builder.  The experiments
-dialog has been connected to the applications NSUserDefaults object using bindings, as described in this tutorial:
+dialog has been connected to the application's NSUserDefaults object using bindings, as described in this tutorial:
 http://daemonconstruction.blogspot.com.au/2011/11/simple-nstableview-application-with.html
 
