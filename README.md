@@ -33,7 +33,7 @@ The dialogs in this application are Cocoa dialogs, which can be edited in Xcode'
 dialog has been connected to the application's NSUserDefaults object using bindings, as described in this tutorial:
 http://daemonconstruction.blogspot.com.au/2011/11/simple-nstableview-application-with.html
 
-![Image](https://raw.github.com/monash-merc/mytardis-desktop-sync-macosx/master/images/Menu.png?raw=true)
+![Image](images/Menu.png?raw=true)
 
 ![Image](https://raw.github.com/monash-merc/mytardis-desktop-sync-macosx/master/images/Settings%20dialog.png?raw=true)
 
