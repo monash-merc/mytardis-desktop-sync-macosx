@@ -33,13 +33,23 @@ The dialogs in this application are Cocoa dialogs, which can be edited in Xcode'
 dialog has been connected to the application's NSUserDefaults object using bindings, as described in this tutorial:
 http://daemonconstruction.blogspot.com.au/2011/11/simple-nstableview-application-with.html
 
+A status icon is used to indicate whether the last sync was successful, or whether a sync is in progress:
+
 ![Image](images/Menu.png?raw=true)
 
-![Image](https://raw.github.com/monash-merc/mytardis-desktop-sync-macosx/master/images/Settings%20dialog.png?raw=true)
+A settings dialog allows the user to enter their MyTardis credentials:
 
-![Image](https://raw.github.com/monash-merc/mytardis-desktop-sync-macosx/master/images/Experiments%20already%20synced.png?raw=true)
+![Image](images/Settings%20dialog.png?raw=true)
 
-![Image](https://raw.github.com/monash-merc/mytardis-desktop-sync-macosx/master/images/Experiment%20added%20to%20sync%20list.png?raw=true)
+A list of experiments already synced is presented to the user:
 
-![Image](https://raw.github.com/monash-merc/mytardis-desktop-sync-macosx/master/images/Notifications.png?raw=true)
+![Image](images/Experiments%20already%20synced.png?raw=true)
+
+The user can elect to add an additional experiment to the list of experiments to sync:
+
+![Image](images/Experiment%20added%20to%20sync%20list.png?raw=true)
+
+When the syncing is complete, the user will receive some notifications;
+
+![Image](images/Notifications.png?raw=true)
 
